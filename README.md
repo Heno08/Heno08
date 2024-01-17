@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack development using Rails
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ... anything ... drop me a message :)
-- 📫 How to reach me: henryjamesblackburn@hotmail.co.uk
+- 📫 How to reach me: henryjamesblackburn@gmail.com
 
 <!---
 Heno08/Heno08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
